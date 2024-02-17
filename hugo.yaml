@@ -1,4 +1,4 @@
-baseURL: "http://digitallywired.in/"
+baseURL: "https://digitallywired.in/"
 languageCode: en-us
 title: thewired.in Blog
 theme: ["PaperMod"]
