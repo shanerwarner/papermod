@@ -1,3 +1,4 @@
 baseURL: "https://shanerwarner.github.io/papermod/"
 languageCode: en-us
 title: thewired.in Blog
+theme: "PaperMod"
